@@ -1,4 +1,4 @@
-# SquidGameGodotEngine3D
+# SquidGameGodotEngine3D con GDnative y C++
 
 
 
